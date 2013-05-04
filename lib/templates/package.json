@@ -1,6 +1,14 @@
 {
   "name": "karmascaffold",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repo.git"
+  },
+  "author": {
+    "name": "",
+    "email": ""
+  },
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",

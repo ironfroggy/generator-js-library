@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Yeoman Generator for client-side JS Libraries, w/ Karma Runner",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ironfroggy/generator-js-library.git"
+  },
   "keywords": [
     "yeoman-generator"
   ],
