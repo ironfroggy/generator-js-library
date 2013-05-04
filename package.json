@@ -1,0 +1,24 @@
+{
+  "name": "generator-js-library",
+  "version": "0.1.0",
+  "description": "Yeoman Generator for client-side JS Libraries, w/ Karma Runner",
+  "main": "index.js",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": {
+    "name": "Calvin Spealman",
+    "email": "ironfroggy@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.10.2"
+  }
+}
